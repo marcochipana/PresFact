@@ -1,0 +1,10 @@
+D:\DEV\Facturacion\Presentacion\Facturacion.Presentacion\PresentacionAgenteServicio\bin\Debug\PresentacionAgenteServicio.dll
+D:\DEV\Facturacion\Presentacion\Facturacion.Presentacion\PresentacionAgenteServicio\bin\Debug\PresentacionAgenteServicio.pdb
+D:\DEV\Facturacion\Presentacion\Facturacion.Presentacion\PresentacionAgenteServicio\bin\Debug\System.Net.Http.Formatting.dll
+D:\DEV\Facturacion\Presentacion\Facturacion.Presentacion\PresentacionAgenteServicio\bin\Debug\Newtonsoft.Json.dll
+D:\DEV\Facturacion\Presentacion\Facturacion.Presentacion\PresentacionAgenteServicio\bin\Debug\System.Net.Http.Formatting.xml
+D:\DEV\Facturacion\Presentacion\Facturacion.Presentacion\PresentacionAgenteServicio\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+D:\DEV\Facturacion\Presentacion\Facturacion.Presentacion\PresentacionAgenteServicio\obj\Debug\PresentacionAgenteServicio.csprojResolveAssemblyReference.cache
+D:\DEV\Facturacion\Presentacion\Facturacion.Presentacion\PresentacionAgenteServicio\obj\Debug\PresentacionAgenteServicio.csproj.CoreCompileInputs.cache
+D:\DEV\Facturacion\Presentacion\Facturacion.Presentacion\PresentacionAgenteServicio\obj\Debug\PresentacionAgenteServicio.dll
+D:\DEV\Facturacion\Presentacion\Facturacion.Presentacion\PresentacionAgenteServicio\obj\Debug\PresentacionAgenteServicio.pdb
